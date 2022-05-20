@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.16"
+  },
+  "name": "js-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariia-kiliushina/node-js-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariia-kiliushina/node-js-training/issues"
+  },
+  "homepage": "https://github.com/mariia-kiliushina/node-js-training#readme",
+  "description": ""
+}
