@@ -184,6 +184,15 @@ const __dirname = dirname(__filename);
 // emitter.emit("start", { message: "New msg", times: 5 });
 /////Emit events////
 
+//////ReadStream/////
+// const { stdin } = process;
+// const readStream = fs.createReadStream("text.txt", "utf-8");
+// readStream.on("data", (chunk) => {
+//   console.log(chunk);
+//   process.exit();
+// });
+//////ReadStream/////
+
 //////WriteStream/////
 // const { stdin } = process;
 // const output = fs.createWriteStream("written_via_terminal.txt");
